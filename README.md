@@ -2,9 +2,9 @@ Ideas and Planning
 ==================
 Where Dreams are made.
 
-Actual discussion of ideas will take place on [slack](https://youngdesigners.slack.com) but we still need a **record keeper** for everything we have **already discussed**.
+Actual discussion of ideas will take place on [Slack](https://youngdesigners.slack.com) but we still need a **record keeper** for everything we have **already discussed**.
 
-### Why Shoud I Use It?
+### Why Should I Use It?
 
 The wiki will be a source of truth for our community. It will allow us to have some place to refer to information on ideas, features, implementation, etc. of the site in an organized but easily accessible(for collaboration) fashion. **It will also be extremely useful for members entering a discussion for the first time** -- this way they don't have search through past chat history or have the idea rehashed by someone in the channel.
 
