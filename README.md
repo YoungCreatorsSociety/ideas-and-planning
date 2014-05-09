@@ -42,3 +42,6 @@ Happy writing!
 * [Front End Implementation](https://github.com/YoungCreatorsSociety/ideas-and-planning/wiki/Front-End-Implementation)
 * [Back End Implementation](https://github.com/YoungCreatorsSociety/ideas-and-planning/wiki/Back-End-Implementation)
 
+### Infrastructure and Ops
+
+* [[Infrastructure]]
