@@ -44,4 +44,4 @@ Happy writing!
 
 ### Infrastructure and Ops
 
-* [[Infrastructure]]
+* [Infrastructure](https://github.com/YoungCreatorsSociety/ideas-and-planning/wiki/Infrastructure)
