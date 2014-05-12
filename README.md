@@ -26,6 +26,9 @@ Happy writing!
 
 # Table Of Contents
 
+### Meet The Team
+* [Who's Who?](https://github.com/YoungCreatorsSociety/ideas-and-planning/wiki/Who%27s-Who%3F)
+
 ### Brand & Strategy
 * [Project Purpose and Mission](https://github.com/YoungCreatorsSociety/ideas-and-planning/wiki/Project-Purpose-and-Mission)
 * [Site Names](https://github.com/YoungCreatorsSociety/ideas-and-planning/wiki/Site-Names)
@@ -39,8 +42,7 @@ Happy writing!
 * [Interface Design](https://github.com/YoungCreatorsSociety/ideas-and-planning/wiki/Interface-Design)
 
 ### Development
-* [Front End Implementation](https://github.com/YoungCreatorsSociety/ideas-and-planning/wiki/Front-End-Implementation)
-* [Back End Implementation](https://github.com/YoungCreatorsSociety/ideas-and-planning/wiki/Back-End-Implementation)
+* [Code Implementation](https://github.com/YoungCreatorsSociety/ideas-and-planning/wiki/Code-Implementation)
 
 ### Infrastructure and Ops
 
