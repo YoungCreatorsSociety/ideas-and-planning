@@ -3,7 +3,7 @@
 ##Tumblr vs. Ghost
  - We need to make a decision soon
  - Samuel can help Mike with setting up Node/nginx, and Ghost's default theme is loads better than Tumblr's already.
-###Pros and Cons:
+##Pros and Cons:
  - Ghost:
   - Open-source
   - Base theme is already excellent
@@ -11,6 +11,7 @@
   - Easily customizable
   - Well-designed themes, most of which are free, but prices ranve up to $25 USD
   - Runs on node
+  - Can be setup for multi-user usage, and users don't have to have Ghost accounts
  - Tumblr:
   - Familiar
   - Many themes, but most aren't what we're looking for (i.e. well-designed)
