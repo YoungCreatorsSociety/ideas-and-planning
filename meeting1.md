@@ -11,12 +11,12 @@
   - Base theme is already excellent
   - Small learning curve
   - Easily customizable
-  - Well-designed themes, most of which are free, but prices range up to $25 USD
+  - Well-designed themes, most of which are free, but prices range up to $25 USD: http://marketplace.ghost.org/
   - Runs on node
   - Can be setup for multi-user usage, and users don't have to have Ghost accounts
 
  - Tumblr:
   - Familiar
-  - Many themes, but most aren't what we're looking for (i.e. well-designed)
+  - Many themes, but most aren't what we're looking for (i.e. well-designed): http://www.tumblr.com/themes
   - Themes can range in price to over $50 USD
   - Supports multi-user out of the box (but users have to have Tumblr accounts)
